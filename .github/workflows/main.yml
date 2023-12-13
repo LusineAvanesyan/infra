@@ -39,3 +39,6 @@ jobs:
           ./test.sh
           chmod +x aws-delete.sh
           ./aws-delete.sh
+
+
+          
